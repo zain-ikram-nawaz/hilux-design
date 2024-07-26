@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.swiper-button-next {
+  background-color: rgb(255, 255, 255)!important;
+  padding: 2vw 1vw;
+  border-radius: 20px; 
+  color: rgb(127, 144, 243)!important;
+  position: relative;
+  font-weight: bold;
+
+}
+.swiper-button-prev {
+  background-color: rgb(255, 255, 255)!important;
+  padding: 2vw 1vw;
+  border-radius: 20px; 
+  color: rgb(127, 144, 243)!important;
+  position: relative;
+  font-weight: bold;
+}
+.html{
+  scroll-behavior: smooth;
+}
