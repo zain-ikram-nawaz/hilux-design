@@ -45,7 +45,7 @@ export default function Value() {
 
             {open && (
               <div className=" my-class relative" >
-                <div className="p-4 absolute border-2 bg-blue-500 ">
+                <div className="p-4 absolute border-2 bg-blue-400 text-white">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Omnis doloremque minima eos suscipit laudantium commodi et cum
                   atque ipsam? Molestiae soluta nihil qui quod tempora amet
@@ -72,7 +72,7 @@ export default function Value() {
 
             {open1 && (
               <div className="border-2 relative">
-                <div className="p-4 absolute bg-blue-500">
+                <div className="p-4 absolute bg-blue-400 text-white">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Omnis doloremque minima eos suscipit laudantium commodi et cum
                   atque ipsam? Molestiae soluta nihil qui quod tempora amet
@@ -99,7 +99,7 @@ export default function Value() {
 
             {open2 && (
               <div className=" my-class relative">
-                <div className="p-4 border-2 absolute bg-blue-500">
+                <div className="p-4 border-2 absolute bg-blue-400 text-white">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Omnis doloremque minima eos suscipit laudantium commodi et cum
                   atque ipsam? Molestiae soluta nihil qui quod tempora amet
@@ -126,7 +126,7 @@ export default function Value() {
 
             {open3 && (
               <div className=" my-class relative">
-                <div className="p-4 border-2 absolute bg-blue-500">
+                <div className="p-4 border-2 absolute bg-blue-400 text-white">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Omnis doloremque minima eos suscipit laudantium commodi et cum
                   atque ipsam? Molestiae soluta nihil qui quod tempora amet
@@ -153,7 +153,7 @@ export default function Value() {
 
             {open4 && (
               <div className="relative">
-                <div className="p-4 border-2 absolute bg-blue-500">
+                <div className="p-4 border-2 absolute bg-blue-400 text-white">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Omnis doloremque minima eos suscipit laudantium commodi et cum
                   atque ipsam? Molestiae soluta nihil qui quod tempora amet
