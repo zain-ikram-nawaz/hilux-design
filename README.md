@@ -1,3 +1,31 @@
+# Home Purchase Website
+This repository contains the source code for a real estate website where users can browse and purchase homes. The website is designed to provide a user-friendly experience with detailed property listings.
+
+
+## Features
+* Property Listings:
+ Users can browse a variety of homes with detailed descriptions, images, and pricing.
+* Responsive Design:
+  The website is fully responsive, ensuring a smooth experience across all devices.
+* Simple and Clean UI:
+   The interface is designed to be intuitive and easy to navigate
+
+  ## Technologies Used
+* HTML5
+* CSS3
+* JavaScript
+* Tailwind CSS (for styling)
+
+  ## How to View
+you can view website by using this link [https://hilux-design.vercel.app/]
+
+## Acknowledgments
+This project was created to practice and enhance my web development skills, focusing on real estate and property management platforms.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
