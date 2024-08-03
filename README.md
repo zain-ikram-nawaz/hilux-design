@@ -11,7 +11,7 @@ This repository contains the source code for a real estate website where users c
    The interface is designed to be intuitive and easy to navigate
 ![hilux](public/hilux4.PNG)
 ![hilux](public/hilx2.PNG)
-![hilux](public/hilux3.PNG)
+![hilux](public/hiux3.PNG)
   ## Technologies Used
 * HTML5
 * CSS3
