@@ -9,7 +9,9 @@ This repository contains the source code for a real estate website where users c
   The website is fully responsive, ensuring a smooth experience across all devices.
 * Simple and Clean UI:
    The interface is designed to be intuitive and easy to navigate
-
+![hilux](public/hilux4.PNG)
+![hilux](public/hilx2.PNG)
+![hilux](public/hilux3.PNG)
   ## Technologies Used
 * HTML5
 * CSS3
