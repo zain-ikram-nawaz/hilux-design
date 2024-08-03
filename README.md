@@ -1,7 +1,7 @@
 # Home Purchase Website
 This repository contains the source code for a real estate website where users can browse and purchase homes. The website is designed to provide a user-friendly experience with detailed property listings.
 
-
+![hilux](public/hilux.PNG)
 ## Features
 * Property Listings:
  Users can browse a variety of homes with detailed descriptions, images, and pricing.
